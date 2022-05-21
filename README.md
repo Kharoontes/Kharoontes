@@ -8,7 +8,7 @@
 
 ## Presentation 🤝 : 
 
- <!-- Iconos -->
+ <!-- Categorias -->
   
  ## Languages and Tools 💻:
 
@@ -16,11 +16,12 @@
   </br>
       <summary><b>Programation:</b></summary>
 
-  ![Java-BLACK](https://user-images.githubusercontent.com/36416017/169661383-ce0ec13e-7696-4b4f-b590-9c98be4c8e5c.svg)
+![Java-BLACK](https://user-images.githubusercontent.com/36416017/169661383-ce0ec13e-7696-4b4f-b590-9c98be4c8e5c.svg)
 ![Html-BLACK](https://user-images.githubusercontent.com/36416017/169661385-365c0184-b208-4219-b69b-c2789fcc8c74.svg)
 ![CSS-BLACK](https://user-images.githubusercontent.com/36416017/169661315-df7ed060-0d9d-4bf2-b200-f0e43caf420f.svg)
 ![JS-BLACK](https://user-images.githubusercontent.com/36416017/169661499-9cd55177-bc1c-4a68-8b90-48f892386dc4.svg)
-   </details>
+   
+</details>
   
    <details> 
   </br>
