@@ -37,6 +37,14 @@
   ![After Effects-BLACK](https://user-images.githubusercontent.com/36416017/169662755-922b8c63-e5ef-4edf-9211-65ad5b327394.svg)
 
    </details>
+   
+   <details> 
+  </br>
+      <summary><b>Office Suite:</b></summary>
+
+ 
+
+   </details>
 
 
 
