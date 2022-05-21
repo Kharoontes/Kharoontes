@@ -5,6 +5,6 @@
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/Kharoontes" target="_blank">
     <img width="460" height="auto" align="right" alt="Kharoontes GitHub stats" 
-         src="https://github-readme-stats.vercel.app/api?username=Kharoontes&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true" />
+         src="https://github-readme-stats.vercel.app/api?username=Kharoontes&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true"><a/>
 
 
