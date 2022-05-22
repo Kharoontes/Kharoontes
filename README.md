@@ -1,16 +1,19 @@
 <!-- Inicio -->
-### <h1 align="center"> Hello There 👋 </br> This is Kharoontes! </h1>
+### <h1 align="center"> Hello There 👋 </br> This is Kharoontes! </h1> ###
 
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/Kharoontes" target="_blank">
     <img width="460" height="auto" align="right" alt="Kharoontes GitHub stats" 
          src="https://github-readme-stats.vercel.app/api?username=Kharoontes&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true"><a/>
+     </p>
 
 ## Presentation 🤝 : 
 
  <!-- Categorias -->
   
  ## Languages and Tools 💻:
+  
+  
 
 <details> 
   </br>
@@ -51,7 +54,8 @@
 
 
 
-
+ <a><img width="460" height="auto" align="right" alt="Top Langs" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharoontes&hide=TeX&layout=compact&theme=midnight-purple"><a/>
 
 
     
