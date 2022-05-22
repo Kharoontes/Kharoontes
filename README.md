@@ -42,12 +42,14 @@
   </br>
       <summary><b>Office Suite:</b></summary>
 
- 
+   ![Word-BLACK](https://user-images.githubusercontent.com/36416017/169719155-735417c7-8787-4dfb-bac4-d0d03d807b8f.svg)   
+   ![Excel-BLACK](https://user-images.githubusercontent.com/36416017/169719135-05433ff7-9123-4119-bc9c-630c48a11555.svg)
+   ![Powerpoint-BLACK](https://user-images.githubusercontent.com/36416017/169719182-11caa55f-7879-4712-a91e-2891793f9a8e.svg)
 
    </details>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharoontes&hide=TeX&layout=compact&theme=midnight-purple)
+/* ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharoontes&hide=TeX&layout=compact&theme=midnight-purple) /*
 
 
 
