@@ -23,12 +23,12 @@
 ![Powerpoint-BLACK](https://user-images.githubusercontent.com/36416017/169719182-11caa55f-7879-4712-a91e-2891793f9a8e.svg)
 
 
- <a><img width="460" height="auto" align="right" alt="Top Langs" 
+ <a><img width="400" height="185" align="right" alt="Top Langs" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharoontes&hide=TeX&layout=compact&theme=midnight-purple"><a/>
 
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/Kharoontes" target="_blank">
-    <img width="460" height="auto" align="left" alt="Kharoontes GitHub stats" 
+    <img width="400" height="185" align="left" alt="Kharoontes GitHub stats" 
          src="https://github-readme-stats.vercel.app/api?username=Kharoontes&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true"><a/>
      </p>
 
