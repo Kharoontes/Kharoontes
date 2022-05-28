@@ -3,6 +3,8 @@
 
 ## Presentation 🤝 : 
 
+<p>Welcome to my page! </br> I'm Kharoontes, Engineer Systems Student from <img src="https://cdn-icons-png.flaticon.com/512/323/323343.png" width="13"/> <b>Cartagena de Indias, Colombia</b>/>. </p>
+
  <!-- Categorias -->
   
  ## Languages and Tools 💻:
