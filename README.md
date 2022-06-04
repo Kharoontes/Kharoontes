@@ -6,8 +6,7 @@
 <p>Welcome to my page! </br> I'm Kharoontes, Engineer Systems Student from <img src="https://cdn-icons-png.flaticon.com/512/323/323343.png" width="13"/> <b>Cartagena de Indias, Colombia</b>.</p>
 
 - ⚡ &nbsp;Age: 24  Years Old
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and League Of Legends player
-
+- ⚡ &nbsp;Fun fact: I play Videogames
 
  <!-- Categorias -->
   
