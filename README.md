@@ -1,5 +1,7 @@
 <!-- Inicio -->
-### <h1 align="center"> Hello There 👋 </br> This is Kharoontes! </h1> ###
+### <h1 align="center"> Hello There 👋 </br> This is Kharoontes! </h1> ### </br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kharoontes&label=Profile%20views&color=0e75b6&style=flat" alt="kharoontes" /> </p>
+
 
 ## Presentation 🤝 : 
 
