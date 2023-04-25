@@ -1,5 +1,5 @@
 <!-- Inicio -->
-### <h1 align="center"> Hello There 👋 </br> This is Kharoontes! </br><p align="center" > <img src="https://komarev.com/ghpvc/?username=kharoontes&label=Profile%20views&color=DC1B1B&style=for-the-badge" alt="kharoontes" /> </p> </h1>
+### <h1 align="center"> Hello There 👋 </br> This is Kharoontes! </br><p align="center" > 
 
 
 
