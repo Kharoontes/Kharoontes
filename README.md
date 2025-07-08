@@ -9,7 +9,7 @@
 &nbsp; Engineer Systems Student from <img src="https://cdn-icons-png.flaticon.com/512/323/323343.png" width="13"/> <b>Cartagena de Indias, Colombia</b>.</p>
 
 <p> <!-- GitHub README Stats -->
-<a><img width="700px" height="185" align="right" alt="Top Langs" 
+<a><img width="700" height="185" align="center" alt="Top Langs" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharoontes&hide=TeX&layout=compact&theme=midnight-purple"><a/>
 
     
