@@ -6,7 +6,7 @@
 ## Presentation 🤝 : 
 
 <p>Welcome to my page! </br> I'm Kharoontes,- ⚡ &nbsp;Age: 27  Years Old
-<p>  &nbsp; Engineer Systems Student from <img src="https://cdn-icons-png.flaticon.com/512/323/323343.png" width="13"/> <b>Cartagena de Indias, Colombia</b>.</p>
+<p>&nbsp; Engineer Systems Student from <img src="https://cdn-icons-png.flaticon.com/512/323/323343.png" width="13"/> <b>Cartagena de Indias, Colombia</b>.</p>
 
 
  <!-- Categorias -->
