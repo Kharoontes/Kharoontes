@@ -28,15 +28,12 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kharoontes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=FF007F&text_color=C9D1D9" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kharoontes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" width="48%" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kharoontes&theme=tokyonight&hide_border=true&background=0D1117&sideRank_color=00F5D4&fire=FF007F" width="100%" />
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,11,6&height=60&section=footer" width="100%" />
