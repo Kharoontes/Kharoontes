@@ -4,12 +4,6 @@
 
 <h3 align="center">🚀 Independent Software Engineer, Consultant & Digital Creator</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-00F5D4?style=for-the-badge&logo=appveyor&logoColor=000" />
-  <img src="https://img.shields.io/badge/Stack-.NET%2010%20%7C%20Visual%20Studio-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Focus-UI%2FUX%20%7C%20Mobile%20Dev-FF007F?style=for-the-badge&logo=figma&logoColor=fff" />
-</p>
-
 ---
 
 ### 💡 About Me
