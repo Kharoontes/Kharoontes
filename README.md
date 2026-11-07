@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Hello%20World!%20I'm%20José%20Dario&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Hello%20World!%20I'm%20José%20Novoa&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <h3 align="center">🚀 Independent Software Engineer, Consultant & Digital Creator</h3>
